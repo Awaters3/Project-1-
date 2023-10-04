@@ -1,68 +1,34 @@
- <h1>Movie, Book, and Album Recomendations</h1>
-      <h2>Books</h2>
-      <p><strong><em>Fergus Crane</em> - Paul Stewart</strong></p>
-      <p>Fergus Crane was my favorite childhood story. It follows Fergus, a boy 
-      living on an island who is whisked away on an exciting adventure. The book 
-      features illustrations by Chris Riddell, who has an incredibly unqiue 
-      style. His drawings paired with a relatively mature and engaging story 
-      made this book stick in my mind as a child. Even today I remember many 
-      of the illustrations and could regonize his style anywhere. This book 
-      captivated me in my youth, and I would reccomend it for anyone with 
-      children interested in reading.</p>
-
-      <p><strong><em>House of Leaves</em> - Mark Z. Danielewski</strong></p>
-      <p>This is the book I am currently reading, and I love it so far! The 
-      story is about a young man, Johnny, who finds hundreds pages of writing 
-      about a movie that never existed. The book details these pages with 
-      footnotes from Johnny. As the plot of the movie becomes more supernatural, 
-      the footnates become less grounded, and Johnny begins to ramble. It is an 
-      incredibly engaging postmodern story, and I look forward to finishing it!</p>
-    </section>
-
-    <section>
-      <h2>Movies</h2>
-
-      <p><strong><em>The Princess Bride</em> (1987)</strong></p>
-      <p>This was my favorite movie as a child, and remains that way today. The 
-      humor is entertaining for all ages, and the actors are flawless. In addition, 
-      many lines are iconic pieces of recent culture, and many people quote it 
-      without even realizing. Overall, it is a great movie with undeniable impact.</p>
-
-      <p><strong><em>Everything Everywhere All At Once</em> (2022)</strong></p>
-      <p>I watched this movie over the Summer, a year after it was first released. 
-      The story is simultaneously emotional and hilarious, and I had to frequently 
-      hold myself back from laughing or crying too loud. In addition, it features 
-      many practical effects as a result of its lower budget. Many large movie 
-      studios are afraid to experiment in the same way that this movie did, and 
-      I hope its success inspires more original movies.</p>
-    </section>
-
-    <section>
-      <h2>Albums</h2>
-
-      <p><img src="media/glasshouses.jpg" 
-      alt="Billy Joel Glass Houses album cover"></p>
-      <p><strong><em>Glass Houses</em> - Billy Joel (1980)</strong></p>
-      <p>After listening to this album a couple years ago, I quickly fell in 
-      love. Every song is great at minimum, if not perfect. They are all catchy, 
-      memorable, and great for any road trip playlist. My favorite songs are 
-      <em>Sleeping With the Television On</em> and <em>You May be Right</em>.</p>
-      <audio controls>
-        <source src="audio/youmayberight.mp3" type="audio/mp3">
-      </audio>
-      
-      <p><img src="media/aimandignite.jpg" 
-      alt="running and how it is healthy"></p>
-      <p><strong><em>Aim and Ignite</em> - fun. (2009)</strong></p>
-      <p>Like many, I discovered fun. through their second album, 
-      <em>Some Nights</em>. But after listening to the rest of their music, I 
-      began to prefer their first album. <em>Some Nights</em> is a great album, 
-      but it is more suited to be played on a radio, losing much of the unique 
-      sound featured in <em>Aim and Ignite</em>. There are some songs that I 
-      would rather skip, but highlights like <em>Benson Hedges</em> and 
-      <em>Light A Roman Candle With Me</em> make up for it.</p>
-    </section>
-
-    <p><a href="mailto: atanner1@hawk.iit.edu"><em>atanner1@hawk.iit.edu</em></a></p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Track & Field</title>
+  </head>
+  
+  <body>
+    <ul>
+      <li><a href="index.html"><strong>Resume</strong></a></li>
+      <li><a href="page2.html"><strong>God of War </strong></a></li>
+      <li><a href="page3.html"><strong>Super Mario Bros.</strong></a></li>
+	</ul>
+    <h1>All About God Of War</h1>
+    <p>In the game you play as Kratos, an Anti-Hero, Spartan Warrior, and Demi-God who is sent by the Greek Gods to kill off Ares, The god of war. As the story progresses, the viewers realise that Kratos was a former servant of Ares tricked into burning his village and slaughtering his own family. Now he seeks Vegeance upon Ares and The Gods who minipulated him.   </p>
+    <img src="https://www.linkpicture.com/q/Ares-and-Kratos.jpg" alt="Ares and Kratos stand face to face ready for battle as they conversate on their situation and contract towards their servant and Lord status. Talking about the corruption and how the status of god of war is on the table is kratos can beat him." width="500" height="300">
+    <h2>Where to begin playing?</h2>
+    <p> God of war has had many games throughout the franchises lifetime. Out of all the games that have been released so far one of the best for beginners is God of war 4: 2018. This game is so highly rated because it allows the player to roam freely throughout the nine realms as they have many creative tools at their disposal to fight enemies. In this world you get to experience a new world and new history in which you can also learn about krato's past and future wiht his son Atreus.</p>
+    <img src="https://www.linkpicture.com/q/God_of_War_4_cover.jpg" alt="Kratos and Atreus row down the lake of Midgard" width="400" height="300">
+    <h3>Latest game in the franchise: God of War: Ragnarok</h3>
+	<p>God of War: Ragnarok follows Kratos using three main weapons to jounrey through the world<p>
+	  <ul> 
+	    <li>Blades of Chaos: The blades are weapons that were used in the original trilogy of games in which are re-intriduced in the fourth installment. The character swings the blades with wrist chains with primordial fire fueled inside.</li>
+	    <li>Leviathan Axe: In the new game series the Axe is a weapon that kratos uses as his primary. The axe was given by his wife fye in which the blade is infused with ice magic which Kratos charged up and freezes the enemies.</li>
+            <li>Draupnir Spear: In Ragnarok, Kratos uses this new spear in order to take down Odin, the norse god. This spear is used as a bombing tool in which he throws and pierces the enemy.</li>
+             </ul>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/hfJ4Km46A-0?si=t1F_mAJt3CJL514L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	 </iframe>
   </body>
-</html>
+
+</html> 
+      
+      
+      
